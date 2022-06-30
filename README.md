@@ -15,7 +15,18 @@ A composite graph is a graph constructed from different levels of coarsening usi
 
 # Installation
 
-To run this code we need `numpy`, `scipy`, `matplotlib`, `pyamg`, and `networkx`. All the packages can be installed using `pip`. Similarly, a `Dockerfile` is provided to build an image that contains all the necessary libraries.
+To run this code we need `numpy`, `scipy`, `matplotlib`, `pyamg`, and `networkx`. All the packages can be installed using `pip`.
+
+## Docker
+
+If you have `docker` available in your system, the easiest way to get this code to work is by creating an image with the docker file and running a container with that image. Use the following commands to run the code:
+
+```
+$ docker build --file ./Dockerfile --tag python3 .
+$ docker run --volume `pwd`:/app python3 composite_graph.py
+```
+
+This will run the composite graph code and save the images as PDF files in the local directory.
 
 # References
 
