@@ -226,11 +226,13 @@ if __name__ == "__main__":
     nx.draw_networkx(nx.from_scipy_sparse_matrix(A), pos = pos_fine)
     ax.set_aspect("equal")
     ax.set_title("Fine operator graph")
+    plt.savefig("fine_operator_graph.pdf", bbox_inches = "tight")
 
     fig, ax = plt.subplots(figsize = (8, 8))
     nx.draw_networkx(nx.from_scipy_sparse_matrix(A_c), pos = pos_comp)
     ax.set_aspect("equal")
     ax.set_title("Composite operator graph")
+    plt.savefig("composite_operator_graph.pdf", bbox_inches = "tight")
 
     # Poisson problem
     f = 2.0 * (np.pi ** 2.0) * np.sin(np.pi * x) * np.sin(np.pi * y)
@@ -245,15 +247,18 @@ if __name__ == "__main__":
     ax = plt.axes(projection = "3d")
     ax.set_title("Exact solution")
     ax.plot_surface(X, Y, (R * u_star).reshape(m + 2, m + 2))
+    plt.savefig("exact_solution.pdf", bbox_inches = "tight")
 
     fig = plt.figure(figsize = (12, 8))
     ax = plt.axes(projection = "3d")
     ax.set_title("Numerical solution with fine operator")
     ax.plot_surface(X, Y, (R * u).reshape(m + 2, m + 2))
+    plt.savefig("numerical_solution_fine.pdf", bbox_inches = "tight")
 
     fig = plt.figure(figsize = (12, 8))
     ax = plt.axes(projection = "3d")
     ax.set_title("Numerical solution with composite operator")
     ax.plot_surface(X, Y, (R * v).reshape(m + 2, m + 2))
+    plt.savefig("numerical_solution_composite.pdf", bbox_inches = "tight")
 
     plt.show()
