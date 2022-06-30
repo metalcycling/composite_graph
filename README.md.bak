@@ -8,9 +8,9 @@ A composite graph is a graph constructed from different levels of coarsening usi
 
 *From left to right:* 
 
-- Fine grid with home nodes colored in blue and expanded nodes in red
-- Intersection of colored nodes in the fine grid with the first coarse grid, and their corresponding red expansion
-- Repeated intersection for the coarsest grid and final expansion
+- Fine grid with home nodes denote in blue and expanded nodes in red
+- Intersection of colored nodes in the fine grid with the first coarse grid resulting in the blue home nodes and their corresponding red expansion expansion
+- Repeaded intersection for the coarsest grid and final expansion
 - Composite graph constructed for all the grid
 
 # Installation
