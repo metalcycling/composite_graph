@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" viewBox="40 420 400 400" xmlns:latexdraw="http://latexdraw.sourceforge.net/namespaces/latexdraw" version="1.1" baseProfile="full">
+    <g>
+        <g latexdraw:type="joinedLines" id="id205875947">
+            <polyline points="240.0,780.0 240.0,460.0 " stroke="#b3b3b3" stroke-width="3.5" fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id1447104619">
+            <polyline points="80.0,460.0 80.0,780.0 " stroke="#b3b3b3" stroke-width="3.5" fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id1817133355">
+            <polyline points="400.0,460.0 400.0,780.0 " stroke="#b3b3b3" stroke-width="3.5" fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id194754055">
+            <polyline points="400.0,460.0 80.0,780.0 " stroke="#b3b3b3" stroke-width="3.5" fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id1497648746">
+            <polyline points="400.0,780.0 80.0,460.0 " stroke="#b3b3b3" stroke-width="3.5" fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id1637517788">
+            <polyline points="400.0,620.0 240.0,780.0 " stroke="#b3b3b3" stroke-width="3.5" fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id586344510">
+            <polyline points="160.0,700.0 160.0,540.0 " stroke="#b3b3b3" stroke-width="3.5" fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id778502185">
+            <polyline points="240.0,780.0 80.0,620.0 " stroke="#b3b3b3" stroke-width="3.5" fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id1220946562">
+            <polyline points="400.0,620.0 240.0,460.0 " stroke="#b3b3b3" stroke-width="3.5" fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id244739463">
+            <polyline points="320.0,700.0 320.0,540.0 " stroke="#b3b3b3" stroke-width="3.5" fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id649450698">
+            <polyline points="240.0,460.0 80.0,620.0 " stroke="#b3b3b3" stroke-width="3.5" fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id1545156221">
+            <polyline points="400.0,460.0 80.0,460.0 " stroke="#b3b3b3" stroke-width="3.5" fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id666752036">
+            <polyline points="320.0,540.0 160.0,540.0 " stroke="#b3b3b3" stroke-width="3.5" fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id523612486">
+            <polyline points="400.0,620.0 80.0,620.0 " stroke="#b3b3b3" stroke-width="3.5" fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id1855945399">
+            <polyline points="320.0,700.0 160.0,700.0 " stroke="#b3b3b3" stroke-width="3.5" fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id1607950093">
+            <polyline points="400.0,780.0 80.0,780.0 " stroke="#b3b3b3" stroke-width="3.5" fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="dot" id="id1550376229" latexdraw:size="15.0" latexdraw:dotShape="*" latexdraw:position="80.0 460.0">
+            <ellipse cx="80.0" cy="460.0" rx="6.923076923076923" ry="6.923076923076923" stroke-width="0.9375" stroke-linecap="square" stroke="red" fill="red"/>
+        </g>
+        <g latexdraw:type="dot" id="id1588302443" latexdraw:size="15.0" latexdraw:dotShape="*" latexdraw:position="240.0 460.0">
+            <ellipse cx="240.0" cy="460.0" rx="6.923076923076923" ry="6.923076923076923" stroke-width="0.9375" stroke-linecap="square" stroke="blue" fill="blue"/>
+        </g>
+        <g latexdraw:type="dot" id="id184039918" latexdraw:size="15.0" latexdraw:dotShape="*" latexdraw:position="400.0 460.0">
+            <ellipse cx="400.0" cy="460.0" rx="6.923076923076923" ry="6.923076923076923" stroke-width="0.9375" stroke-linecap="square" stroke="red" fill="red"/>
+        </g>
+        <g latexdraw:type="dot" id="id1599680487" latexdraw:size="15.0" latexdraw:dotShape="*" latexdraw:position="160.0 540.0">
+            <ellipse cx="160.0" cy="540.0" rx="6.923076923076923" ry="6.923076923076923" stroke-width="0.9375" stroke-linecap="square" stroke="blue" fill="blue"/>
+        </g>
+        <g latexdraw:type="dot" id="id1556970112" latexdraw:size="15.0" latexdraw:dotShape="*" latexdraw:position="320.0 540.0">
+            <ellipse cx="320.0" cy="540.0" rx="6.923076923076923" ry="6.923076923076923" stroke-width="0.9375" stroke-linecap="square" stroke="blue" fill="blue"/>
+        </g>
+        <g latexdraw:type="dot" id="id615901204" latexdraw:size="15.0" latexdraw:dotShape="*" latexdraw:position="80.0 620.0">
+            <ellipse cx="80.0" cy="620.0" rx="6.923076923076923" ry="6.923076923076923" stroke-width="0.9375" stroke-linecap="square" stroke="blue" fill="blue"/>
+        </g>
+        <g latexdraw:type="dot" id="id1861936644" latexdraw:size="15.0" latexdraw:dotShape="*" latexdraw:position="240.0 620.0">
+            <ellipse cx="240.0" cy="620.0" rx="6.923076923076923" ry="6.923076923076923" stroke-width="0.9375" stroke-linecap="square" stroke="blue" fill="blue"/>
+        </g>
+        <g latexdraw:type="dot" id="id205892517" latexdraw:size="15.0" latexdraw:dotShape="*" latexdraw:position="400.0 620.0">
+            <ellipse cx="400.0" cy="620.0" rx="6.923076923076923" ry="6.923076923076923" stroke-width="0.9375" stroke-linecap="square" stroke="blue" fill="blue"/>
+        </g>
+        <g latexdraw:type="dot" id="id303175020" latexdraw:size="15.0" latexdraw:dotShape="*" latexdraw:position="160.0 700.0">
+            <ellipse cx="160.0" cy="700.0" rx="6.923076923076923" ry="6.923076923076923" stroke-width="0.9375" stroke-linecap="square" stroke="blue" fill="blue"/>
+        </g>
+        <g latexdraw:type="dot" id="id1412064010" latexdraw:size="15.0" latexdraw:dotShape="*" latexdraw:position="320.0 700.0">
+            <ellipse cx="320.0" cy="700.0" rx="6.923076923076923" ry="6.923076923076923" stroke-width="0.9375" stroke-linecap="square" stroke="blue" fill="blue"/>
+        </g>
+        <g latexdraw:type="dot" id="id1186666487" latexdraw:size="15.0" latexdraw:dotShape="*" latexdraw:position="80.0 780.0">
+            <ellipse cx="80.0" cy="780.0" rx="6.923076923076923" ry="6.923076923076923" stroke-width="0.9375" stroke-linecap="square" stroke="red" fill="red"/>
+        </g>
+        <g latexdraw:type="dot" id="id540843079" latexdraw:size="15.0" latexdraw:dotShape="*" latexdraw:position="240.0 780.0">
+            <ellipse cx="240.0" cy="780.0" rx="6.923076923076923" ry="6.923076923076923" stroke-width="0.9375" stroke-linecap="square" stroke="blue" fill="blue"/>
+        </g>
+        <g latexdraw:type="dot" id="id1746089297" latexdraw:size="15.0" latexdraw:dotShape="*" latexdraw:position="400.0 780.0">
+            <ellipse cx="400.0" cy="780.0" rx="6.923076923076923" ry="6.923076923076923" stroke-width="0.9375" stroke-linecap="square" stroke="red" fill="red"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id2024253990">
+            <polyline points="200.0,440.0 60.0,580.0 60.0,660.0 200.0,800.0 280.0,800.0 420.0,660.0 420.0,580.0 280.0,440.0 200.0,440.0 " stroke="black" stroke-width="3.5" fill="none" stroke-dasharray="8.819444444444445, 5.291666666666667" latexdraw:rotationAngle="0.0"/>
+        </g>
+    </g>
+    <defs/>
+    <metadata>
+        <latexdraw:metadata>
+            <latexdraw:centreHoriz>false</latexdraw:centreHoriz>
+            <latexdraw:positionVert/>
+            <latexdraw:zoom>1.0</latexdraw:zoom>
+            <latexdraw:vpx>0.5</latexdraw:vpx>
+            <latexdraw:vpy>0.473</latexdraw:vpy>
+        </latexdraw:metadata>
+    </metadata>
+</svg>
